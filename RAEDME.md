@@ -1,10 +1,10 @@
-##HAKKIMDA
+## HAKKIMDA
 BEN SITİ ZEYNEP
 İstanbul 29 Mayıs Üniversitesi Yönetim Bilişim Sistemleri öğrencisiyim.
 Teknoloji ve yazılım alanında kendimi geliştirmek adına projeyi yapıyorum.
 
 
-##İlkKod 
+## İlkKod 
 Bu proje 1 ile 20 arasındaki çift sayılarının küplerinin toplamını hesaplayan basit bir Java programıdır.
 
 
